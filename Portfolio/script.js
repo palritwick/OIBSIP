@@ -6,7 +6,6 @@ menuIcon.onclick = () => {
     navbar.classList.toggle('active');
 };
 
-
 // Scroll section active link
 let sections = document.querySelectorAll('section');
 let navLinks = document.querySelectorAll('header navbar a');
